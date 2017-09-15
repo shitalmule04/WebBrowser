@@ -1,0 +1,63 @@
+D:\C # programe\Miniproj\Miniproj\bin\Debug\Miniproj.exe
+D:\C # programe\Miniproj\Miniproj\bin\Debug\Miniproj.pdb
+D:\C # programe\Miniproj\Miniproj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\C # programe\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Form1.resources
+D:\C # programe\Miniproj\Miniproj\obj\x86\Debug\Miniproj.login.resources
+D:\C # programe\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Properties.Resources.resources
+D:\C # programe\Miniproj\Miniproj\obj\x86\Debug\Miniproj.signupform.resources
+D:\C # programe\Miniproj\Miniproj\obj\x86\Debug\Miniproj.WebBrowserfrm.resources
+D:\C # programe\Miniproj\Miniproj\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\C # programe\Miniproj\Miniproj\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\C # programe\Miniproj\Miniproj\obj\x86\Debug\Miniproj.exe
+D:\C # programe\Miniproj\Miniproj\obj\x86\Debug\Miniproj.pdb
+H:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.exe
+H:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.pdb
+H:\Miniproj\Miniproj\bin\Debug\Miniproj.exe
+H:\Miniproj\Miniproj\bin\Debug\Miniproj.pdb
+H:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Form1.resources
+H:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.login.resources
+H:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Properties.Resources.resources
+H:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.signupform.resources
+H:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.WebBrowserfrm.resources
+K:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.exe
+K:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.pdb
+K:\Miniproj\Miniproj\bin\Debug\Miniproj.exe
+K:\Miniproj\Miniproj\bin\Debug\Miniproj.pdb
+K:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Form1.resources
+K:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.login.resources
+K:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Properties.Resources.resources
+K:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.signupform.resources
+K:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.WebBrowserfrm.resources
+K:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.csproj.GenerateResource.Cache
+H:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.csprojResolveAssemblyReference.cache
+H:\Miniproj\Miniproj\obj\x86\Debug\Miniproj.csproj.GenerateResource.Cache
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.exe
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.pdb
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\bin\Debug\Miniproj.exe
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\bin\Debug\Miniproj.pdb
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.csprojResolveAssemblyReference.cache
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Form1.resources
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.login.resources
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Properties.Resources.resources
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.signupform.resources
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.WebBrowserfrm.resources
+C:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.csproj.GenerateResource.Cache
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.exe
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.pdb
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\bin\Debug\Miniproj.exe
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\bin\Debug\Miniproj.pdb
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.csprojResolveAssemblyReference.cache
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Form1.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.login.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Properties.Resources.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.signupform.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.WebBrowserfrm.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.csproj.GenerateResource.Cache
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.AboutBox1.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Admin.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.bookmark.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Form2.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\bin\Debug\Miniproj.exe.config
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.report.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Changepass.resources
+D:\RAHUL\my study\C# PROJECT BROWSER\Miniproj\Miniproj\obj\x86\Debug\Miniproj.Changepassnew.resources
